@@ -1,4 +1,4 @@
-# Contains all OFFICIAL discord clients
+# Contains all OFFICIAL Discord Downloads
 | Stable                                                                | PTB                                                                       | Canary                                                                       | Development                                                                       |
 |-----------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | [Windows](https://discord.com/api/download?platform=win)              | [Windows](https://discord.com/api/download/ptb?platform=win)              | [Windows](https://discord.com/api/download/canary?platform=win)              | [Windows](https://discord.com/api/download/development?platform=win)              |
